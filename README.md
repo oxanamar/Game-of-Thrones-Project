@@ -44,7 +44,7 @@ Download Node.js from the official website: [Node.js Download](https://nodejs.or
 #### Step 2: Clone the Repository
 ```bash
 git clone https://github.com/oxanamar/Game-of-Thrones-A-Comprehensive-Guide-to-Every-Character-s-Demise.git
-cd Game-of-Thrones-A-Comprehensive-Guide-to-Every-Character-s-Demise
+cd Game-of-Thrones-Project
 ```
 
 #### Step 3: Install the Required Dependencies
