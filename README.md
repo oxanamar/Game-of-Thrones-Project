@@ -22,6 +22,10 @@ Additional features:
 -   **3D Gallery**: Immerse yourself in a virtual tour of the series' most memorable scenes.
 -   **Game of Thrones Quiz**: Test your knowledge with our interactive quiz.
 
+## 🌐 Live Website
+
+You can visit the live site here: [Game of Thrones: A Comprehensive Guide to Every Character's Demise](https://got-fawn.vercel.app/main.html)
+
 
 ## 🛠️ Tech Stack
 
